@@ -1,5 +1,5 @@
 {
-    "name": "atha/markdown",
+	"name": "atha/markdown",
     "description": "Just a php markdown examples",
     "keywords": ["php", "markdown"],
     "license": "None",
@@ -9,5 +9,8 @@
             "email": "atha.3417@gmail.com",
             "homepage": "http://example.com/"
         }
-    ]
+    ],
+    "require": {
+        "erusev/parsedown": "^1.7"
+    }
 }
